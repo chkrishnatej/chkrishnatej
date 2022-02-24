@@ -11,8 +11,9 @@ Writing helps me unwind my thoughts and understanding of things in a structured 
 
 ## Inspiration and ideology
 
-> If you cannot explain something in simple terms, you do not understand it \n
->   \- Richard Feynman
+> If you cannot explain something in simple terms, you do not understand it <br>
+>   \- **Richard Feynman**
+{: .prompt-tip }
 
 I believe in this and wanted to deliver it in writing medium
 
